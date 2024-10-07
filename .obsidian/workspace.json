@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "91047a9315103280",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eff0b762fbd1dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25f303713d26c11b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concurrency/concurrency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0571134ed63c7c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci notes/Data Structures/Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad29d9f0bb3d96c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompSci notes/Programming/Global and local variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e18bf50e6bc62b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15cf4bcb9732caaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "de5603f9061a867f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da351ff53afa5915",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f160eddb441d8d8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c59e27df06663a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a67e0dfe3cdb4a70",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d5926fb3ff56d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9314d374bb27c5f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76d4ba482f9aaf4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "066687acfbec3167",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "116de177d7a70867",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0e18bf50e6bc62b9",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "New proj idea.md",
+    "Functions.md",
+    "CompSci notes/Programming/parameters by value and reference.md",
+    "Untitled",
+    "thinking logically",
+    "concurrency",
+    "CompSci notes/Programming/programming constructs.md",
+    "thinking logically/identify sub-procedures.md",
+    "CompSci notes/Programming/Global and local variables.md",
+    "CompSci notes/Data Structures/Data Structures.md",
+    "C programming/5/5.12.md",
+    "C programming/5",
+    "C programming",
+    "concurrency/concurrency.md",
+    "CompSci notes/pros and cons of concurrency.md",
+    "thinking logically/steps in solving a problem.md",
+    "concurrency/caching.md",
+    "thinking logically/identify components of a problem.md",
+    "thinking logically/identify components of a solution.md",
+    "thinking logically/reusable components.md",
+    "CompSci notes/SLR18/The nature of abstraction.md",
+    "CompSci notes/SLR18/The need for abstraction.md",
+    "CompSci notes/SLR18/Abstractions and reality.md",
+    "CompSci notes/SLR18/devising an abstract model.md",
+    "CompSci notes/managing data/Compression.md",
+    "CompSci notes/SLR18",
+    "CompSci notes/databases/SQL.md",
+    "CompSci notes/databases/Normalisation.md",
+    "CompSci notes/databases/Data integrity.md",
+    "CompSci notes/databases/Capturing data.md",
+    "CompSci notes/Boolean Algebra",
+    "Excalidraw",
+    "Untitled.canvas",
+    "CompSci notes/Data Structures",
+    "Pasted image 20240416105507.png",
+    "CompSci notes/Networks",
+    "CompSci notes/Programming/LMC layout.png"
+  ]
+}

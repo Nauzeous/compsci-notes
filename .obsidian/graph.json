@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"CompSci notes/web technology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"CompSci notes/managing data\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "path:\"CompSci notes/Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12320563
+      }
+    },
+    {
+      "query": "path:\"CompSci notes/databases\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "path:\"CompSci notes/Data types/Floating point\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:\"Negative binary numbers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"CompSci notes/Data types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65297
+      }
+    },
+    {
+      "query": "path:Networks  ",
+      "color": {
+        "a": 1,
+        "rgb": 7602510
+      }
+    },
+    {
+      "query": "file:CompSci notes",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"CompSci notes/Data Structures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7995392
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.20530145530146,
+  "lineSizeMultiplier": 1.5516632016632,
+  "collapse-forces": false,
+  "centerStrength": 0.816008316008316,
+  "repelStrength": 20,
+  "linkStrength": 0.998960498960499,
+  "linkDistance": 30,
+  "scale": 0.48689802752413114,
+  "close": false
+}
