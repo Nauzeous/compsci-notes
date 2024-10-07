@@ -1,0 +1,5 @@
+[[Assembly language]]
+[[Modes of addressing]]
+[[Procedural Languages]]
+[[Programming paradigms]]
+[[Arrays, records, lists, tuples]]

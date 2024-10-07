@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "3f80e30261d84b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "776cf4bac429198c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e56bc128f401bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "identify inputs and outputs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9348c6b28367dda7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compsci notes/slr21/thinking logically.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52f22b8716e34871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compsci notes/slr21/determining logical conditions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5df134d6e7f5e792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C programming/Section 5/5.12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f030cc9c786d873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C programming/Section 6/6.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b712534f324a97c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C programming/C programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41f4423167301bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7da57bcc9befdc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da98dab3d732083b",
+    "type": "split",
+    "children": [
+      {
+        "id": "134ba3953d95f82e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a80d4fd1ec8cfc31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b55e56b1cb761351",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad32942cce5a7fb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7cbe55346ea011a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "21db4f2db5ea77ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e731b056c15417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbfef3b33c2d5f0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a41f7bce8ffb7f32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e958da482a8b666",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "5be321e6595030b3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "b78caa2381fbd791",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "7e958da482a8b666",
+  "lastOpenFiles": [
+    "General thoughts.md",
+    "Untitled.md",
+    "C programming/C programming.md",
+    "C programming/Section 6/6.3.md",
+    "C programming/Section 6/6.2.md",
+    "C programming/Section 6/6.9.md",
+    "IDEs.md",
+    "C programming/Section 6/6.1.md",
+    "C programming/Section 5/5.12.md",
+    "tesseract.md",
+    "C programming/Section 5/5.11.md",
+    "C programming/Section 5/5.10.md",
+    "C programming/Section 5/5.9.md",
+    "C programming/Section 5/5.8.md",
+    "C programming/Section 5/5.7.md",
+    "C programming/Section 5/5.5.md",
+    "C programming/Section 5/5.2.md",
+    "C programming/Section 5/5.3.md",
+    "C programming/Section 5/5.4.md",
+    "C programming/Section 5/5.6.md",
+    "C programming/Section 5/5.1.md",
+    "C programming/Section 4/4.6.md",
+    "compsci notes/slr21/decisions and program flow.md",
+    "compsci notes/slr21/thinking logically.md",
+    "compsci notes/slr21/determining logical conditions.md",
+    "Excalidraw/traversal.excalidraw.md",
+    "compsci notes/slr21",
+    "compsci notes/slr19",
+    "Untitled.canvas",
+    "compsci notes/logic",
+    "Untitled 1.canvas",
+    "GTrnjkcXQAAPzu3.png",
+    "C programming/Section 8",
+    "C programming/Section 7",
+    "C programming/Section 6",
+    "C programming/Section 5",
+    "C programming/Section 4",
+    "C programming/Section 3",
+    "C programming/Section 2"
+  ]
+}
