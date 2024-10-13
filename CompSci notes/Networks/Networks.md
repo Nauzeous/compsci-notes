@@ -1,2 +1,0 @@
-[[Network security]]
-[[Network topologies]]
