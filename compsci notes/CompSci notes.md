@@ -1,8 +1,9 @@
 # CompSci notes
 
-[[databases]]
-[[managing data]]
+[[managing data]] SLR 1.3.1
+[[databases]]  SLR 1.3.2
+[[Networks]] SLR 1.3.3
+[[web technology]] SLR 1.3.4
 [[Programming]]
-[[web technology]]
-[[Data types]]
-[[Logic]]
+[[Data types]] SLR 1.4.1
+[[Data Structures]]

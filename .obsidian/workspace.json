@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "776cf4bac429198c",
+        "id": "287cb7cba3fe5afa",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e56bc128f401bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "identify inputs and outputs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9348c6b28367dda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compsci notes/slr21/thinking logically.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52f22b8716e34871",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compsci notes/slr21/determining logical conditions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5df134d6e7f5e792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C programming/Section 5/5.12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f030cc9c786d873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C programming/Section 6/6.2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b712534f324a97c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C programming/C programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41f4423167301bdf",
+            "id": "ce0646f149103a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,23 +16,69 @@
                 "file": "General thoughts.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "General thoughts"
             }
           },
           {
-            "id": "f7da57bcc9befdc5",
+            "id": "114cf29391c6d19a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "psychology.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "psychology"
+            }
+          },
+          {
+            "id": "abc1b1dc12f28378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what is interesting about toddler brains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is interesting about toddler brains"
+            }
+          },
+          {
+            "id": "1c3922261a1f3525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-01-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-05"
+            }
+          },
+          {
+            "id": "dbafc39c01e449e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network protocols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "network protocols"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -139,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -147,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -170,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "merge sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for merge sort"
             }
           },
           {
@@ -187,10 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "merge sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from merge sort"
             }
           },
           {
@@ -201,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -210,85 +196,83 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
-              }
+                "file": "merge sort.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of merge sort"
             }
           },
           {
-            "id": "5be321e6595030b3",
+            "id": "2b268986e26d6312",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "b78caa2381fbd791",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
-      "juggl:Juggl global graph": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e958da482a8b666",
+  "active": "dbafc39c01e449e3",
   "lastOpenFiles": [
+    "2025-01-05.md",
+    "network protocols.md",
+    "final goal.md",
+    "what is interesting about toddler brains.md",
     "General thoughts.md",
-    "Untitled.md",
-    "C programming/C programming.md",
-    "C programming/Section 6/6.3.md",
-    "C programming/Section 6/6.2.md",
-    "C programming/Section 6/6.9.md",
-    "IDEs.md",
-    "C programming/Section 6/6.1.md",
-    "C programming/Section 5/5.12.md",
-    "tesseract.md",
-    "C programming/Section 5/5.11.md",
-    "C programming/Section 5/5.10.md",
-    "C programming/Section 5/5.9.md",
-    "C programming/Section 5/5.8.md",
-    "C programming/Section 5/5.7.md",
-    "C programming/Section 5/5.5.md",
-    "C programming/Section 5/5.2.md",
-    "C programming/Section 5/5.3.md",
-    "C programming/Section 5/5.4.md",
-    "C programming/Section 5/5.6.md",
-    "C programming/Section 5/5.1.md",
-    "C programming/Section 4/4.6.md",
-    "compsci notes/slr21/decisions and program flow.md",
-    "compsci notes/slr21/thinking logically.md",
-    "compsci notes/slr21/determining logical conditions.md",
-    "Excalidraw/traversal.excalidraw.md",
-    "compsci notes/slr21",
-    "compsci notes/slr19",
+    "CompSci notes/computational thinking/divide and conquer.md",
+    "CompSci notes/computational thinking/use of abstraction.md",
+    "CompSci notes/Programming/merge sort.md",
+    "CompSci notes/computational thinking/heuristics.md",
+    "CompSci notes/computational thinking/backtracking.md",
+    "CompSci notes/computational thinking/pipelining.md",
+    "psychology.md",
+    "politics.md",
     "Untitled.canvas",
-    "compsci notes/logic",
+    "Untitled.md",
+    "CompSci notes/computational thinking/problem decomposition.md",
+    "CompSci notes/computational thinking/performance modelling.md",
+    "CompSci notes/computational thinking/data mining.md",
+    "Fetch, decode, execute.md",
+    "visualisation.md",
+    "CompSci notes/computational thinking/backtracking, heuristics, data mining.md",
+    "Excalidraw/traversal.excalidraw.md",
+    "CompSci notes/computational thinking",
+    "Excalidraw/graphdiagram.excalidraw.md",
+    "CompSci notes/algorithms/queues and stacks p2.md",
+    "CompSci notes/algorithms/Linear search.md",
+    "CompSci notes/algorithms/Binary search.md",
+    "CompSci notes/Boolean Algebra/Simplifying boolean expressions.md",
+    "CompSci notes/web technology",
+    "CompSci notes/thinking logically",
+    "CompSci notes/SLR18",
+    "CompSci notes/Programming/LMC layout.png",
+    "CompSci notes/Programming",
+    "CompSci notes/Networks",
+    "CompSci notes/managing data",
+    "CompSci notes/Excalidraw",
+    "CompSci notes/databases",
+    "CompSci notes/Data types/Negative binary numbers",
     "Untitled 1.canvas",
-    "GTrnjkcXQAAPzu3.png",
-    "C programming/Section 8",
-    "C programming/Section 7",
-    "C programming/Section 6",
-    "C programming/Section 5",
-    "C programming/Section 4",
-    "C programming/Section 3",
-    "C programming/Section 2"
+    "GTrnjkcXQAAPzu3.png"
   ]
 }

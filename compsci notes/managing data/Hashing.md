@@ -10,6 +10,9 @@ a small change will change the hash value entirely
 
 The reason that hashing is not the same as encryption is that multiple inputs can produce the same hashed output, meaning that the original value cannot be entirely determined by the hash value, but instead narrowed down
 
+many values can produce the same hash value, as it is a one-way function. This is referred to as a hash collision
+
+
 ### Why use hashing
 
 hashing is important for obscuring data to hack attacks
@@ -25,3 +28,4 @@ Hashing is also important for quick searching, insertion and deleting items in d
 by using hashing, it is quicker as you do not need to search an entire data structure, but instead apply the hashing function to find the item
 
 hash tables provide O(1) time complexity, meaning they always take the same time to search
+

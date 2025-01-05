@@ -1,0 +1,6 @@
+[[Algorithm complexity]]
+[[suitability of algorithms]]
+[[Binary search]]
+[[Linear search]]
+[[pros and cons of concurrency]]
+[[queues and stacks p2]]

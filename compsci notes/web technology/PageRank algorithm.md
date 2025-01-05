@@ -14,7 +14,7 @@ The pagerank algorithm is as follows
 
 PR(A) = (1-d) + d (PR(T1)/C(T1) + PR(T2)/C(T2) ..... PR(Tn)/C(Tn))
 
-or $$PR(A) = (1-d)+d\sum_{n=T1}^{Tn} PR(n)/C(n)$$
+or $$PR(A) = (1-d)+d\sum_{n=T_1}^{Tn} PR(n)/C(n)$$
 Each page starts with a pagerank of 1, and the process is iterated over. The process works iteratively to avoid circular dependencies.
 
 

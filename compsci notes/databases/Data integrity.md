@@ -1,6 +1,6 @@
 Databases often need to support multiple simultaneous users, and the largest databases have million of records and thousands of people accessing it
 
-Users can be different access rights to a database
+Users can have ==different access rights== to a database
 - some users can only query the database and run reports
 - others can add and modify records
 - and a small amount of people can delete records
